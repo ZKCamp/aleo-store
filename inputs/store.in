@@ -1,0 +1,4 @@
+// The program input for store/src/main.leo
+[buy]
+item: u8 = 1u8;
+quantity: u64 = 2u64;
